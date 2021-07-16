@@ -147,15 +147,15 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Detecting AutoAttack Perturbations in the Frequency Domain
+        link: "https://openreview.net/pdf?id=8uWOTxbwo-Z"
+        authors: P Lorenz, P Harder, D Straßel, M Keuper, J Keuper
+        conference: ICML Workshop for Adversarial Machine Learning, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "The Robocup Rescue Victim Dataset"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605"
+        authors: Peter Lorenz, Gerald Steinbauer
+        conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
