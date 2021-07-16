@@ -141,8 +141,8 @@ publications:
         conference: ICML Workshop for Adversarial Machine Learning, 2021
 
       - title: "The Robocup Rescue Victim Dataset"
-        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605".
-        authors: Peter Lorenz, Gerald Steinbauer
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605"
+        authors: P Lorenz, G Steinbauer-Wagner
         conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
 
 
