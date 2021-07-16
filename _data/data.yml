@@ -142,7 +142,7 @@ projects:
 publications:
     title: Publications
     intro: |
-    You can [download my resume](https://github.com/jS5t3r/peter_lorenz.github.io/blob/master/lorenz_resume_short.pdf).
+    Please, checkout my [google scholar profile](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en).
     papers:
       - title: Detecting AutoAttack Perturbations in the Frequency Domain
         link: "https://openreview.net/pdf?id=8uWOTxbwo-Z"
