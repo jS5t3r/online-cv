@@ -97,15 +97,15 @@ experiences:
       company: MBDA-Systems (Defense Industry), Munich, Germany
       details: |
         MBDA-Systems is located 1 hour northly from Munich. An overview of the project is given on [wikipedia](https://en.wikipedia.org/wiki/Future_Combat_Air_System).
-  
+        As part of the "Future Combat Air System" (FCAS) I took responsibilites of algorithm development in the field of Computer Vision / Deep Learning.
           - Processing of a real-world dataset (collected by an airplane)
-          - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and will be adapted/evaluated to track objects on the ground. (Tensorflow)
+          - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and are adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
       time: 2019 - 2020
       company: Virtual Vehicle Reserach GmbH, Graz, Germany
       details: |
         The competence center Virtual Vehicle Research GmbH [Link](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
-        The roles in this company are not clear and you must be very flexible as an employer. 
+        The roles in this company are not clear and you must be very flexible as an employer. The primary goal is to enhance car industry with artificial intelligende. The outcome is pirmarly shown in the (Robo Race)[https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/students/student-teams/student-competition-and-focus-teams/autonomous-racing-graz/]
           - Software engineering for autonomous vehicles (Ubuntu, C++, Python, CARLA Simulator, Docker)
           - Managing an EU-Research Project alone from our company’s side. Regular online and on-site meetings.
           - Confer with clients to discuss their options and goals so that for accessing needed services are developed.
@@ -141,7 +141,7 @@ publications:
         conference: ICML Workshop for Adversarial Machine Learning, 2021
 
       - title: "The Robocup Rescue Victim Dataset"
-        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605".
         authors: Peter Lorenz, Gerald Steinbauer
         conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
 
