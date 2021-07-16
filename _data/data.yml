@@ -84,7 +84,7 @@ education:
           - Tutor positions: “Numerical Calculation and Linear Algebra” (2016-2017: Prof. Berglez; 2018: Prof. Elsholtz). ~600 students: 2 homework assignments, 2 tests and test proctoring.
           - Thesis: “Evaluation and Improvement of the Current Victim Detection System of a Rescue Robot.”
 experiences:
-    - role: Ph.D. Student
+    - role: Ph.D. Stipend
       time: 2021 - now
       company: Fraunhofer, ITWM, Kaiserslautern
       details: |
@@ -101,8 +101,8 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Processing of a real-world dataset (collected by an airplane)
+          - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and will be adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
       time: 2019 - 2020
       company: Virtual Vehicle Reserach GmbH, Graz
