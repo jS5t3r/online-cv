@@ -45,7 +45,7 @@ sidebar:
       - item: Kickboxing
         link: 
 
-      - item: Snowboarding
+      - item: Learning Chinese
         link:
 
       - item: Cooking
@@ -54,8 +54,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      You can [download this free resume/CV template here]().
       Computer science Ph.D. stipend holder with 2 years+ industrial experience is looking for great opportunities in enhance the thesis with great internships opportunities concerning Adversarial Machine Learning and after Ph.D. to continue on this position. Passionate about Machine Learning and its challenges.
+      
+      You can [download this free resume/CV template here](https://github.com/jS5t3r/peter_lorenz.github.io/blob/master/curriculum_vitae_lorenz.pdf).
+      
 education:
     - degree: MSc in Computer Science
       university: Graz Universtiy of Technology
@@ -192,4 +194,4 @@ skills:
         level: 60%
 
 footer: >
-    @ Peter Lorenz, July 2021.
+    © Peter Lorenz, July 2021.
