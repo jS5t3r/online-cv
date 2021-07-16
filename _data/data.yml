@@ -107,11 +107,8 @@ experiences:
       time: 2019 - 2020
       company: Virtual Vehicle Reserach GmbH, Graz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The competence center Virtual Vehicle Research GmbH [Link](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
+        
           - Software engineering for autonomous vehicles (Ubuntu, C++, Python, CARLA Simulator, Docker)
           - Managing an EU-Research Project alone from our company’s side. Regular online and on-site meetings.
           - Confer with clients to discuss their options and goals so that for accessing needed services are developed.
@@ -145,9 +142,6 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Detecting AutoAttack Perturbations in the Frequency Domain
         link: "https://openreview.net/pdf?id=8uWOTxbwo-Z"
