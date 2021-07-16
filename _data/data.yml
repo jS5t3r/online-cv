@@ -94,13 +94,9 @@ experiences:
           - Task: Analysis of Adversarial Attacks on Deep Neural Networks (Python, PyTorch)
     - role: Deep-Learning Software Engineer
       time: 2020 - 2021
-      company: MBDA-Systems, Munich
+      company: MBDA-Systems (Defense Industry), Munich, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        https://en.wikipedia.org/wiki/Future_Combat_Air_System    
           - Processing of a real-world dataset (collected by an airplane)
           - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and will be adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
@@ -108,7 +104,7 @@ experiences:
       company: Virtual Vehicle Reserach GmbH, Graz, Germany
       details: |
         The competence center Virtual Vehicle Research GmbH [Link](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
-        
+        The roles in this company are not clear and you must be very flexible as an employer. 
           - Software engineering for autonomous vehicles (Ubuntu, C++, Python, CARLA Simulator, Docker)
           - Managing an EU-Research Project alone from our company’s side. Regular online and on-site meetings.
           - Confer with clients to discuss their options and goals so that for accessing needed services are developed.
