@@ -142,7 +142,7 @@ projects:
 publications:
     title: Publications
     intro: |
-    Please, checkout my [google scholar profile](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en).
+      Please, checkout my [google scholar profile](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en).
     papers:
       - title: Detecting AutoAttack Perturbations in the Frequency Domain
         link: "https://openreview.net/pdf?id=8uWOTxbwo-Z"
