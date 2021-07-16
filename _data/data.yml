@@ -96,7 +96,8 @@ experiences:
       time: 2020 - 2021
       company: MBDA-Systems (Defense Industry), Munich, Germany
       details: |
-        https://en.wikipedia.org/wiki/Future_Combat_Air_System    
+        MBDA-Systems is located 1 hour northly from Munich. An overview of the project is given on [wikipedia](https://en.wikipedia.org/wiki/Future_Combat_Air_System).
+  
           - Processing of a real-world dataset (collected by an airplane)
           - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and will be adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
