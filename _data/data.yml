@@ -115,29 +115,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A list of my projects mainly at university. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Deep learning approaches for estimating optical flow
+        link: "https://github.com/computeVision/optical_flow/blob/master/optical_flow.pdf"
+        tagline: "Seminar paper with the Lecturer Peter Roth at TU Graz."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Evaluation of a deep convolutional generative adversarial network
+        link: "https://github.com/computeVision/dcgan_evaluation"
+        tagline: "Evalution of Deep Generative Neural Networks."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: RC4 adn AES cryptography
+        link: "https://github.com/technicalinformatics/RC4/blob/master/rc4.pdf"
+        tagline: "Vincent Rijmen was professor at TU Graz and mainly responsible for the invention of AES."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Rigid Motion Estimation
+        link: "https://github.com/computeVision/pcl_stereoimages"
+        tagline: "Together with I. Jambrecic (currently at DeepMap, Inc. in CA), we programmed a robust algorithm resulting in a very fine point cloud. "
 
 publications:
     title: Publications
