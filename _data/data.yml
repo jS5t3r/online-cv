@@ -97,7 +97,7 @@ experiences:
       company: MBDA-Systems (Defense Industry), Munich, Germany
       details: |
         MBDA-Systems is located 1 hour northly from Munich. An overview of the project is given on [wikipedia](https://en.wikipedia.org/wiki/Future_Combat_Air_System).
-        As part of the "Future Combat Air System" (FCAS) I took responsibilites of algorithm development in the field of Computer Vision / Deep Learning.
+        As part of the "Future Combat Air System" (FCAS) team I took responsibilites of algorithm development in the field of Computer Vision / Deep Learning.
           - Processing of a real-world dataset (collected by an airplane)
           - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and are adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
