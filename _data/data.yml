@@ -42,8 +42,8 @@ sidebar:
 
 
     interests:
-      - item: Climbing
-        link:
+      - item: Kickboxing
+        link: 
 
       - item: Snowboarding
         link:
@@ -54,16 +54,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      You can [download this free resume/CV template here]().
+      Computer science Ph.D. stipend holder with 2 years+ industrial experience is looking for great opportunities in enhance the thesis with great internships opportunities concerning Adversarial Machine Learning and after Ph.D. to continue on this position. Passionate about Machine Learning and its challenges.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Graz Universtiy of Technology
+      time: 2013 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +68,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: Graz Universtiy of Technology
+      time: 2016 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -174,22 +170,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Pattern Recognition 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Deep Learning
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Software Engineering
         level: 85%
+    
+      - name: Python
+        level: 98%
 
-      - name: Sketch & Photoshop
+      - name: C++
+        level: 98%
+
+      - name: Linux
+        level: 60%
+        
+       - name: TCP / IP
         level: 60%
 
 footer: >
