@@ -86,7 +86,7 @@ education:
 experiences:
     - role: Ph.D. Stipend
       time: 2021 - now
-      company: Fraunhofer, ITWM, Kaiserslautern
+      company: Fraunhofer, ITWM, Kaiserslautern, Germany
       details: |
           - External Ph.D. student at IWR Heidelberg University
           - Expected graduation in December 2023
@@ -105,7 +105,7 @@ experiences:
           - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and will be adapted/evaluated to track objects on the ground. (Tensorflow)
     - role: Autonomous Driving Researcher
       time: 2019 - 2020
-      company: Virtual Vehicle Reserach GmbH, Graz
+      company: Virtual Vehicle Reserach GmbH, Graz, Germany
       details: |
         The competence center Virtual Vehicle Research GmbH [Link](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
         
@@ -159,7 +159,7 @@ skills:
 
     toolset:
       - name: Pattern Recognition 
-        level: 98%
+        level: 90%
 
       - name: Deep Learning
         level: 95%
@@ -171,13 +171,16 @@ skills:
         level: 98%
 
       - name: C++
-        level: 98%
+        level: 70%
 
       - name: Linux
-        level: 60%
+        level: 100%
         
       - name: TCP / IP
-        level: 60%
+        level: 50%
+        
+      - name: Java
+        level: 50%
 
 footer: >
     © Peter Lorenz, July 2021.
