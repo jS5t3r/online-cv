@@ -88,8 +88,10 @@ experiences:
       time: 2021 - now
       company: Fraunhofer, ITWM, Kaiserslautern
       details: |
-          - Bullet point
-          - Bullet point
+          - External Ph.D. student at IWR Heidelberg University
+          - Expected graduation in December 2023
+          - Department: High Performance Computing
+          - Task: Analysis of Adversarial Attacks on Deep Neural Networks (Python, PyTorch)
     - role: Deep-Learning Software Engineer
       time: 2020 - 2021
       company: MBDA-Systems, Munich
@@ -157,10 +159,6 @@ publications:
         authors: Peter Lorenz, Gerald Steinbauer
         conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
