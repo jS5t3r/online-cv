@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -59,28 +59,30 @@ career-profile:
       You can [download this free resume/CV template here](https://github.com/jS5t3r/peter_lorenz.github.io/blob/master/curriculum_vitae_lorenz.pdf).
       
 education:
-    - degree: MSc in Computer Science
-      university: Graz Universtiy of Technology
-      time: 2013 - 2016
+    - degree: Ph.D. in Computer Science
+      university: University of Heidelberg
+      time: 2021 - now
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Computer Science
+          - External Ph.D. student at IWR Heidelberg University
+          - Expected graduation in December 2023
+          - Department: High Performance Computing
+          - Task: Analysis of Adversarial Attacks on Deep Neural Networks (Python, PyTorch)
+    - degree: MSc in Computer Science
       university: Graz Universtiy of Technology
       time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          Major: Computer Vision, Minor: Pervasive Computing, Supplements: Mathematical Foundations
+          - GPA: 3.86/4.0 
+          - 6 weeks research scholarship (Wayne State University, Michigan, USA): Validation of a gene database. Hypergeometric distribution models.
+          - Tutor positions: “Information Security” (Prof. Rechberger) and “Computational Intelligence” (Prof. Maas)
+          - Thesis: “A Deep Learning Approach to learn Occlusions in regard to Stereo Images”. (Tensorflow, CUDA)
+    - degree: BSc in Computer Science
+      university: Graz Universtiy of Technology
+      time: 2013 - 2016
+      details: |
+          - GPA: 3.77/4.0 (Top 10%)
+          - Tutor positions: “Numerical Calculation and Linear Algebra” (2016-2017: Prof. Berglez; 2018: Prof. Elsholtz). ~600 students: 2 homework assignments, 2 tests and test proctoring.
+          - Thesis: “Evaluation and Improvement of the Current Victim Detection System of a Rescue Robot.”
 experiences:
     - role: Lead Developer
       time: 2015 - Present
