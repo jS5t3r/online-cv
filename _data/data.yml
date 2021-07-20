@@ -88,10 +88,10 @@ experiences:
       time: 2021 - now
       company: Fraunhofer, ITWM, Kaiserslautern, Germany
       details: |
+        Working on the analysis of adversarial attacks on Deep Neural networks.
+          - Department: High Performance Computing
           - External Ph.D. student at IWR Heidelberg University
           - Expected graduation in December 2023
-          - Department: High Performance Computing
-          - Task: Analysis of Adversarial Attacks on Deep Neural Networks (Python, PyTorch)
     - role: Deep-Learning Software Engineer
       time: 2020 - 2021
       company: MBDA-Systems (Defense Industry), Munich, Germany
@@ -107,7 +107,7 @@ experiences:
         The competence center [Virtual Vehicle Research GmbH](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
         The roles in this company are not clear and you must be very flexible as an employer. The primary goal is to enhance car industry with artificial intelligence. The outcome is pirmarly shown in the [Robo Race](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/students/student-teams/student-competition-and-focus-teams/autonomous-racing-graz)
           - Software engineering for autonomous vehicles (Ubuntu, C++, Python, CARLA Simulator, Docker)
-          - Managing an EU-Research Project alone from our company’s side. Regular online and on-site meetings.
+          - Managing an EU-Research project alone from our company’s side. Regular online and on-site meetings.
           - Confer with clients to discuss their options and goals so that for accessing needed services are developed.
 projects:
     title: Projects
@@ -122,7 +122,7 @@ projects:
         link: "https://github.com/computeVision/dcgan_evaluation"
         tagline: "Evalution of Deep Generative Neural Networks."
 
-      - title: RC4 adn AES cryptography
+      - title: RC4 and AES cryptography
         link: "https://github.com/technicalinformatics/RC4/blob/master/rc4.pdf"
         tagline: "Vincent Rijmen was professor at TU Graz and mainly responsible for the invention of AES."
 
