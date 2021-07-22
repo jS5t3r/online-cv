@@ -100,7 +100,7 @@ experiences:
         As part of the "Future Combat Air System" (FCAS) team I took responsibilites of algorithm development in the field of Computer Vision / Deep Learning.
           - Processing of a real-world dataset (collected by an airplane)
           - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and are adapted/evaluated to track objects on the ground. (Tensorflow)
-    - role: Autonomous Driving Researcher
+    - role: Autonomous Driving Software Engineer
       time: 2019 - 2020
       company: Virtual Vehicle Reserach GmbH, Graz, Austria
       details: |
