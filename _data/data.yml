@@ -148,7 +148,7 @@ publications:
 publications:
     title: Talks
     intro: |
-    talks: 
+    papers: 
       - title: dfasfasdf
         link: "https://www.itwm.fraunhofer.de/en/fairs_events/2021/2021_05_20_adversarial-machine-learning.html"
         authors: P Lorenz
