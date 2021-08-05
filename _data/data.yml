@@ -145,6 +145,12 @@ publications:
         authors: P Lorenz, G Steinbauer-Wagner
         conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
 
+talks:
+    title: Talks
+    intro: |
+    talks: 
+      - title: dfasfasdf
+      - link: "https://www.itwm.fraunhofer.de/en/fairs_events/2021/2021_05_20_adversarial-machine-learning.html"
 
 skills:
     title: Skills &amp; Proficiency
