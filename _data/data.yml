@@ -54,133 +54,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Computer science Ph.D. stipend holder with 2+ years industrial experience is looking for great opportunities in enhance the thesis with great internships opportunities (preferably in California) concerning Adversarial Machine Learning and after Ph.D. to continue on this position. Passionate about Machine Learning and its challenges.
-      
-      You can [download my resume](https://github.com/jS5t3r/peter_lorenz.github.io/blob/master/lorenz_resume_short.pdf).
-      
-education:
-    - degree: Ph.D. in Computer Science
-      university: University of Heidelberg
-      time: 2021 - now
-      details: |
-          - External Ph.D. student at IWR Heidelberg University
-          - Expected graduation in December 2023
-          - Department: High Performance Computing
-          - Task: Analysis of Adversarial Attacks on Deep Neural Networks (Python, PyTorch)
-    - degree: Dipl.-Ing. in Computer Science (equivalent to MSc.)
-      university: Graz Universtiy of Technology
-      time: 2016 - 2018
-      details: |
-          Major: Computer Vision, Minor: Pervasive Computing, Supplements: Mathematical Foundations
-          - GPA: 3.86/4.0 
-          - 6 weeks research scholarship (Wayne State University, Michigan, USA): Validation of a gene database. Hypergeometric distribution models.
-          - Tutor positions: “Information Security” (Prof. Rechberger) and “Computational Intelligence” (Prof. Maas)
-          - Thesis: “A Deep Learning Approach to learn Occlusions in regard to Stereo Images”. (Tensorflow, CUDA)
-    - degree: BSc in Computer Science
-      university: Graz Universtiy of Technology
-      time: 2013 - 2016
-      details: |
-          - GPA: 3.77/4.0 (Top 10%)
-          - Tutor positions: “Numerical Calculation and Linear Algebra” (2016-2017: Prof. Berglez; 2018: Prof. Elsholtz). ~600 students: 2 homework assignments, 2 tests and test proctoring.
-          - Thesis: “Evaluation and Improvement of the Current Victim Detection System of a Rescue Robot.”
-experiences:
-    - role: Ph.D. Stipend
-      time: 2021 - now
-      company: Fraunhofer, ITWM, Kaiserslautern, Germany
-      details: |
-        Working on the analysis of adversarial attacks on Deep Neural networks.
-          - Department: High Performance Computing
-          - External Ph.D. student at IWR Heidelberg University
-          - Expected graduation in December 2023
-    - role: Deep-Learning Software Engineer
-      time: 2020 - 2021
-      company: MBDA-Systems (Defense Industry), Munich, Germany
-      details: |
-        MBDA-Systems is located 1 hour northly from Munich. An overview of the project is given on [wikipedia](https://en.wikipedia.org/wiki/Future_Combat_Air_System).
-        As part of the "Future Combat Air System" (FCAS) team I took responsibilites of algorithm development in the field of Computer Vision / Deep Learning.
-          - Processing of a real-world dataset (collected by an airplane)
-          - Observer drone is equipped with non-commercial sensors. Deep learning (LSTM, Recurrent) approaches are needed and are adapted/evaluated to track objects on the ground. (Tensorflow)
-    - role: Autonomous Driving Software Engineer
-      time: 2019 - 2020
-      company: Virtual Vehicle Reserach GmbH, Graz, Austria
-      details: |
-        The competence center [Virtual Vehicle Research GmbH](https://www.v2c2.at/kooperation/referenzprojekte-2/#adas) is a spin-off of Graz University of Technology. The goal is to fill the gap between university and industry.
-        The roles in this company are not clear and you must be very flexible as an employer. The primary goal is to enhance car industry with artificial intelligence. The outcome is pirmarly shown in the [Robo Race](https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/students/student-teams/student-competition-and-focus-teams/autonomous-racing-graz).
-          - Software engineering for autonomous vehicles (Ubuntu, C++, Python, CARLA Simulator, Docker)
-          - Managing an EU-Research project alone from our company’s side. Regular online and on-site meetings.
-          - Confer with clients to discuss their options and goals so that for accessing needed services are developed.
-projects:
-    title: Projects
-    intro: >
-      A list of my projects mainly at university. 
-    assignments:
-      - title: Deep learning approaches for estimating optical flow
-        link: "https://github.com/computeVision/optical_flow/blob/master/optical_flow.pdf"
-        tagline: "Seminar paper with the Lecturer Peter Roth at TU Graz."
-
-      - title: Evaluation of a deep convolutional generative adversarial network
-        link: "https://github.com/computeVision/dcgan_evaluation"
-        tagline: "Evalution of Deep Generative Neural Networks."
-
-      - title: RC4 and AES cryptography
-        link: "https://github.com/technicalinformatics/RC4/blob/master/rc4.pdf"
-        tagline: "Vincent Rijmen was professor at TU Graz and mainly responsible for the invention of AES."
-
-      - title: Rigid Motion Estimation
-        link: "https://github.com/computeVision/pcl_stereoimages"
-        tagline: "Together with I. Jambrecic (currently at DeepMap, Inc. in CA), we programmed a robust algorithm resulting in a very fine point cloud. "
-
-publications:
-    title: Publications
-    intro: |
-      Please, checkout my [google scholar profile](https://scholar.google.com/citations?user=sb4hPQMAAAAJ&hl=en).
-    papers:
-      - title: Detecting AutoAttack Perturbations in the Frequency Domain
-        link: "https://openreview.net/pdf?id=8uWOTxbwo-Z"
-        authors: P Lorenz, P Harder, D Straßel, M Keuper, J Keuper
-        conference: ICML Workshop for Adversarial Machine Learning, 2021
-
-      - title: "The Robocup Rescue Victim Dataset"
-        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8468605"
-        authors: P Lorenz, G Steinbauer-Wagner
-        conference: "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR). 2018"
-
-Talks:
-    title: Talks
-    intro: |
-    papers: 
-      - title: dfasfasdf
-        link: "https://www.itwm.fraunhofer.de/en/fairs_events/2021/2021_05_20_adversarial-machine-learning.html"
-        authors: P Lorenz
-        conference: "dsfa"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Pattern Recognition 
-        level: 90%
-
-      - name: Deep Learning
-        level: 95%
-
-      - name: Software Engineering
-        level: 85%
     
-      - name: Python
-        level: 98%
+      [Go to my new profile: here](https://js5t3r.github.io/online-cv)
 
-      - name: C++
-        level: 70%
+      
 
-      - name: Linux
-        level: 100%
-        
-      - name: TCP / IP
-        level: 50%
-        
-      - name: Java
-        level: 50%
+   
+
 
 footer: >
     © Peter Lorenz, July 2021.
